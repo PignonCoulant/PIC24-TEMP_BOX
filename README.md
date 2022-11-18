@@ -1,5 +1,5 @@
-<img width=“964” alt=“timebox” src=“https://github.com/PignonCoulant/PIC24-TEMP_BOX/blob/main/tempbox.jpg”>
 
+<img src="https://github.com/PignonCoulant/PIC24-TEMP_BOX/blob/main/tempbox.jpg" alt="Alt text" title="Optional title">
 
 This project is more or less an idea to get used to stofware managment of oled display, multiplexing for seven segment display and know how to use PIC24 microcontroller. 
 
@@ -9,4 +9,3 @@ The project is to take as it but you may find few thing to use for your own code
 
 to be continued
 
-https://github.com/PignonCoulant/PIC24-TEMP_BOX/blob/main/tempbox.jpg
